@@ -5,7 +5,7 @@
 ## Background
 
 My first project in R! I saw the graphs linked in the section below and realized: I can do this too! <br>
-Let me know what you think!
+Come say hi <a href="https://twitter.com/lets_boldly_go/status/1414333053590179841">on Twitter</a> and let me know what you think!
 
 ## Inspiration
 
@@ -81,14 +81,12 @@ color palette package
 
 </h4>
 
-Predefined and customizable Star Trek themed color palettes and related
-functions.
+Predefined and customizable Star Trek themed color palettes and related functions.
 
 </div>
-
 </div>
 
-<br/>
+<br>
 
 <div class="row">
 
